@@ -148,6 +148,9 @@ export default function App() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.1 }}
             >
+              <span className="inline-block text-secondary font-sans uppercase tracking-[0.25rem] text-[13px] font-bold opacity-80 mb-6">
+                Experto en instalaciones eléctricas en obras subterráneas
+              </span>
               <h1 className="text-6xl md:text-8xl font-bold text-primary leading-[1.05] tracking-tight">
                 Francisco Manuel Campillo Díaz
               </h1>
